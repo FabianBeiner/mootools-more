@@ -1,4 +1,6 @@
-MooTools Plugins and Enhancements Repository
+# [UNMAINTAINED] MooTools Plugins and Enhancements Repository
+
+**This repository is unmaintained. Please go to [mootools/mootools-more](https://github.com/mootools/mootools-more) for the latest version.**
 
 ### Wiki
 
